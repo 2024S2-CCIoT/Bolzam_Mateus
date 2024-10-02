@@ -11,9 +11,9 @@
 > Essa parte e a Fundamentação Teórica e Metodologia combinadas;
 
 > Funcionalidade dos Modelos nas Indústrias:
-    > . Como podem ser utilizados: Detalhar como as soluções em nuvem são aplicadas no ambiente industrial. Por exemplo, gestão de dados, monitoramento em tempo real, otimização de processos produtivos.
-    > . Benefícios do uso: dividir em subitens como redução de custos operacionais, maior eficiência na produção, flexibilidade e integração de sistemas.
-    > . Dificuldades na ausência de Computação em Nuvem: Abordar os problemas que surgem quando a computação em nuvem não é adotada, como infraestrutura rígida, custos de manutenção elevados, e dificuldade em escalar operações.
+>     Como podem ser utilizados: Detalhar como as soluções em nuvem são aplicadas no ambiente industrial. Por exemplo, gestão de dados, monitoramento em tempo real, otimização de processos produtivos.
+>     Benefícios do uso: dividir em subitens como redução de custos operacionais, maior eficiência na produção, flexibilidade e integração de sistemas.
+>     Dificuldades na ausência de Computação em Nuvem: Abordar os problemas que surgem quando a computação em nuvem não é adotada, como infraestrutura rígida, custos de manutenção elevados, e dificuldade em escalar operações.
 
 # 3. Conclusão
 
